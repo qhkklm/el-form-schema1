@@ -1,0 +1,11 @@
+node_modules
+rollup.config.js
+.babelrc
+.gitignore
+.github
+yarn.lock
+/public
+/src
+.vscode
+/docs/
+/vuepressdocs/
